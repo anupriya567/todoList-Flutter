@@ -41,5 +41,7 @@ A new Flutter project.
       
 ##### Delete task 
 - delete task on clicking delete button
+
+
 ![todo3](https://user-images.githubusercontent.com/72871727/166229703-0fffae36-56d7-40c6-ae6f-ac06112fa7c6.jpg)</br>
 
