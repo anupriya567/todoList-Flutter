@@ -10,7 +10,7 @@ A new Flutter project.
 - Mark a task as completed
 - Delete a task
 
-##### Added 3 tasks- 
+#### Added 3 tasks(img 1)- 
 - on clicking on the Floating Action Button(fab) in the bottom right corner
 - a BottomSheet comes up as a Modal 
 - Now user can't interact with the rest of the app
